@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-03T03:19:50.626Z'
+datePublished: '2016-08-03T03:40:57.770Z'
+sourcePath: _posts/2016-08-03-monthly-self-exams.md
 isBasedOnUrl: >-
   https://www.youtube.com/watch?v=SpWnjC111yE&list=PLogSMql4UI4yXA0X9kGsR1tqqizx_smmH&index=1
 keywords: []
@@ -9,7 +10,7 @@ author:
     url: 'https://www.youtube.com/channel/UCa5hL8znv3LdpSAwcWGDqYg'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T03:19:35.670Z'
+dateModified: '2016-08-03T03:40:45.586Z'
 title: Monthly Self Exams
 app_links: []
 publisher:
@@ -27,7 +28,6 @@ description: >-
   starting in your teens will give you the best chance of catching the disease
   early and having the best chance of beating the disease.
 starred: false
-sourcePath: _posts/2016-08-03-monthly-self-exams.md
 inFeed: true
 hasPage: false
 inNav: false
