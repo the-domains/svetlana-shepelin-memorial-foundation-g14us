@@ -1,4 +1,3 @@
-layout_spectrum: 0.7096839018631727
 typography_spectrum: 0.6310271706897765
 color:
   brandStrength: 0.3409414340276271
@@ -11,8 +10,11 @@ color:
     - '#FE9EDB'
     - '#D9207E'
     - '#AB3B6D'
+layout_spectrum: 0.7096839018631727
 name: Svetlana Shepelin Memorial Foundation
 navigation:
   - name: About Us
     id: b2947a7c-5ee0-4907-873e-8adcb94ef38b
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d7786b5-bc5e-4fa3-a100-fdebdce2081d.jpg
