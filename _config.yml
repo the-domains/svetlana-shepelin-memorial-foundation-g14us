@@ -1,8 +1,8 @@
 name: Svetlana Shepelin Memorial Foundation
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d7786b5-bc5e-4fa3-a100-fdebdce2081d.jpg
-layout_spectrum: 0.23569
-typography_spectrum: 0.4056
+layout_spectrum: 0.3825076441280544
+typography_spectrum: 0.8377896291203797
 navigation:
   - name: About Us
     id: b2947a7c-5ee0-4907-873e-8adcb94ef38b
@@ -22,13 +22,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#ff5ac2'
-    - '#fe9edb'
-    - '#d9207e'
-    - '#ab3b6d'
-  brandStrength: 0.3409414340276271
-  lightness: 0.6875
-  saturation: 0.3125
-  rhythmicContrast: 0.8404343980364501
+    - '#FFFFFF'
+    - '#FF5AC2'
+    - '#FE9EDB'
+    - '#D9207E'
+    - '#AB3B6D'
+  brandStrength: 0.3473839706275612
+  lightness: 0.5205939773004502
+  saturation: 0.2270080498419702
+  rhythmicContrast: 0.04346760758198798
 purpose: []
