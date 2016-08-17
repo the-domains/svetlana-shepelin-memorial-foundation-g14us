@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T05:02:58.820Z'
+datePublished: '2016-08-17T18:02:36.422Z'
 sourcePath: _posts/2016-08-03-monthly-self-exams.md
 inFeed: true
 isBasedOnUrl: >-
@@ -13,7 +13,7 @@ author:
     url: 'https://www.youtube.com/channel/UCa5hL8znv3LdpSAwcWGDqYg'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T05:02:58.524Z'
+dateModified: '2016-08-17T18:02:31.923Z'
 title: Monthly Self Exams
 app_links: []
 publisher: {}
