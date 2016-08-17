@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-17T18:03:27.920Z'
+datePublished: '2016-08-17T18:03:32.671Z'
 sourcePath: >-
   _posts/2016-08-03-svetlana-shepelin-memorial-foundation-is-a-501c3-private-f.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T18:03:24.210Z'
+dateModified: '2016-08-17T18:03:32.232Z'
 title: ''
 publisher: {}
 description: >-
   Svetlana Shepelin Memorial Foundation is a 501(c)3 Private Foundation
   established in honor of Svetlana Shepelin (Shtivelband) to further the
   education of the early breast cancer detection in young women.
-starred: false
+starred: true
 url: svetlana-shepelin-memorial-foundation-is-a-501c3-private-f/index.html
 _type: MediaObject
 
