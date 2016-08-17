@@ -22,25 +22,25 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.12667
+layout_spectrum: 0.4951868529897183
 title: Svetlana Shepelin Memorial Foundation
 cta:
   bucket: null
   version: null
   domain: null
 color:
-  saturation: 0.3795559101272374
-  brandStrength: 0.2702627733815461
-  rhythmicContrast: 0.4365682771895081
+  saturation: 0.20405564061366022
+  brandStrength: 0.01956245396286249
+  rhythmicContrast: 0.062433473067358136
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
-  lightness: 0.7342412651050836
+    - '#FFFFFF'
+    - '#FF5AC2'
+    - '#FE9EDB'
+    - '#D9207E'
+    - '#AB3B6D'
+  lightness: 0.769567284733057
 purpose: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d7786b5-bc5e-4fa3-a100-fdebdce2081d.jpg
 name: Svetlana Shepelin Memorial Foundation - ORG
-typography_spectrum: 0.5646848699543625
+typography_spectrum: 0.2576856759842485
