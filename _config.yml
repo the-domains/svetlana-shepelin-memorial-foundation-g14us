@@ -1,4 +1,3 @@
-layout_spectrum: 0.8831277028657496
 typography_spectrum: 0.8174997223541141
 color:
   brandColors:
@@ -11,14 +10,27 @@ color:
   lightness: 0.682977655204013
   saturation: 0.06105611566454172
   rhythmicContrast: 0.9268925380893052
-name: Svetlana Shepelin Memorial Foundation
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d7786b5-bc5e-4fa3-a100-fdebdce2081d.jpg
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8831277028657496
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 logo: null
+name: Svetlana Shepelin Memorial Foundation
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
   - name: About Us
     id: b2947a7c-5ee0-4907-873e-8adcb94ef38b
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d7786b5-bc5e-4fa3-a100-fdebdce2081d.jpg
 collections:
   - index:
       path: /
@@ -31,17 +43,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Svetlana Shepelin Memorial Foundation
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: ''
 purpose: []
