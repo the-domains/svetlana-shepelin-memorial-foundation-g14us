@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T13:02:20.370Z'
+datePublished: '2016-08-30T13:02:24.639Z'
 sourcePath: _posts/2016-08-30-monthly-self-exams.md
 isBasedOnUrl: >-
   https://www.youtube.com/watch?list=PLogSMql4UI4yXA0X9kGsR1tqqizx_smmH&v=SpWnjC111yE
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/channel/UCa5hL8znv3LdpSAwcWGDqYg'
     avatar: {}
 via: {}
-dateModified: '2016-08-30T13:01:14.206Z'
+dateModified: '2016-08-30T13:02:24.363Z'
 title: Monthly Self Exams
 app_links:
   - url: >-
@@ -87,6 +87,6 @@ _type: VideoObject
 
 About 1 in 8 (12%) women in the US will develop invasive breast cancer during their lifetime. While various comprehensive screening guidelines exist, they focus on women in their 40's and 50's. [In 4.5% of cases][0], cancer is diagnosed in women younger than 40 years old, including young women in their teens and twenties. 
 
-While the probability of developing breast cancer in your teens and twenties is extremely low, developing the habit of doing monthly self exams starting in your teens will give you the best chance to catch the disease early. At this point, catching the disease early is the best thing you can do to beat it. 
+While the probability of developing breast cancer in your teens and twenties is extremely low, developing the habit of doing monthly self exams starting in your teens will give you the best chance to catch the disease early. At this point, catching the disease early is the best path to beating the disease.
 
 [0]: http://www.cancer.org/acs/groups/content/@research/documents/document/acspc-046381.pdf
