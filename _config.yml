@@ -1,3 +1,16 @@
+layout_spectrum: 0.26793392235413194
+typography_spectrum: 0.983161659212783
+color:
+  saturation: 0.06105611566454172
+  brandStrength: 0.5288718442898244
+  rhythmicContrast: 0.9268925380893052
+  brandColors:
+    - '#FFFFFF'
+    - '#FF5AC2'
+    - '#FE9EDB'
+    - '#D9207E'
+    - '#AB3B6D'
+  lightness: 0.682977655204013
 title: ''
 purpose: []
 collections:
@@ -12,17 +25,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.06105611566454172
-  brandStrength: 0.5288718442898244
-  rhythmicContrast: 0.9268925380893052
-  brandColors:
-    - '#FFFFFF'
-    - '#FF5AC2'
-    - '#FE9EDB'
-    - '#D9207E'
-    - '#AB3B6D'
-  lightness: 0.682977655204013
 cta:
   bucket: null
   version: null
@@ -43,5 +45,3 @@ opengraph:
   type: null
   appId: null
 logo: null
-typography_spectrum: 0.8512864806689322
-layout_spectrum: 0.1935484
