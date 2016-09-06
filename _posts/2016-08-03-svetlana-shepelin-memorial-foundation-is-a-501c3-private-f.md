@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-03T04:03:18.840Z'
+datePublished: '2016-09-03T04:07:42.736Z'
 sourcePath: >-
   _posts/2016-08-03-svetlana-shepelin-memorial-foundation-is-a-501c3-private-f.md
 inFeed: false
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-03T04:03:16.024Z'
+dateModified: '2016-09-03T04:06:26.742Z'
 title: ''
 publisher: {}
 description: >-
@@ -26,7 +26,7 @@ _type: WebPage
 
 Svetlana Shepelin Memorial Foundation is a 501(c)3 Private Foundation established in honor of Svetlana Shepelin (Shtivelband) to further the education of the early breast cancer detection in young women.
 
-Svetlana was diagnosed with Stage 4 breast cancer at the age of 31, and, together with her doctors at the Memorial Sloan Kettering Cancer Center, has courageously fought the disease for 3 years. She passed away on March 15, 2015 at the age of 34\.
+Svetlana was diagnosed with Stage 4 breast cancer in March of 2012, and, together with her doctors at the Memorial Sloan Kettering Cancer Center, has courageously fought the disease for 3 years. She passed away on March 15, 2015 at the age of 34\.
 
 If you'd like to join our cause, please contact us:  
 Email: **[info@shepelinfoundation.com][0]**  
